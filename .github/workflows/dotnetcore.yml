@@ -9,7 +9,7 @@ on:
 jobs:
   build_web_app1:
 
-    name: Build WebApp1
+    name: Build WebApp
     runs-on: ubuntu-latest
 
     steps:
